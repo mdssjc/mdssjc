@@ -1,5 +1,10 @@
 ### Hi there 👋
 
-![Marcelo dos Santos' Github Stats](https://github-readme-stats.vercel.app/api?username=mdssjc&count_private=true&show_icons=true&theme=material-palenight)
+I'm Marcelo dos Santos.
+
+* 🚀 Focus: Dart (Flutter and Flame)
+* 📘 Studies: Systematic Program Design and Category Theory
+* 📲 App: [Oblique Strategies](https://play.google.com/store/apps/details?id=com.github.mdssjc.oblique_strategies "Oblique Strategies")
+* 🏠 Website: [marcelo-mds.dev](https://marcelo-mds.dev/ "marcelo-mds.dev")
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdssjc&langs_count=10&layout=compact&theme=material-palenight)

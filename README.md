@@ -2,7 +2,7 @@
 
 I'm Marcelo dos Santos.
 
-* 🚀 Focus: Dart (Flutter and Flame) and TypeScript (Tauri, Svelte and Deno)
+* 🚀 Focus: Dart (Flutter and Flame), Rust (Tauri) and TypeScript (Svelte, Deno and P5)
 * 📘 Studies: Systematic Program Design and Category Theory
 * 🔥 Languages: Dart, Rust and TypeScript
 * ☕ Mainstream: Java (Spring Boot)

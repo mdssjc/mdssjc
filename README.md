@@ -2,8 +2,9 @@
 
 I'm Marcelo dos Santos.
 
-* 🚀 Focus: Dart (Flutter and Flame), Rust (Tauri) and TypeScript (Svelte, Deno and P5)
+* 🚀 Focus: Dart (Flutter), Rust (Tauri) and TypeScript (Angular, Svelte, Deno and P5)
 * 📘 Studies: Systematic Program Design and Category Theory
+* 🤓 New Language: Scala
 * 🔥 Languages: Dart, Rust and TypeScript
 * ☕ Mainstream: Java (Spring Boot)
 * 📲 App: [Oblique Strategies](https://play.google.com/store/apps/details?id=com.github.mdssjc.oblique_strategies "Oblique Strategies")

@@ -13,5 +13,3 @@ I'm applications craftsman in Java, Lisp, Dart, Rust, and TypeScript, with inter
 - 🔥 Languages: Dart, Rust, and TypeScript
 - 📲 App: [Oblique Strategies](https://play.google.com/store/apps/details?id=com.github.mdssjc.oblique_strategies 'Oblique Strategies')
 - 🏠 Website: [marcelo-mds.dev](https://marcelo-mds.dev/ 'marcelo-mds.dev')
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdssjc&langs_count=10&layout=compact&theme=material-palenight)

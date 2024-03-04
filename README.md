@@ -13,7 +13,7 @@ I'm applications craftsman in Java, Lisp, Dart, Rust, and TypeScript, with inter
 - 🛠 Projects:
   - [Oblique Strategies](https://play.google.com/store/apps/details?id=com.github.mdssjc.oblique_strategies 'Oblique Strategies')
   - [Notes](https://github.com/mdssjc/mds-notes 'Notes') (02/26/2024)
-  - [Book](https://github.com/mdssjc/mds 'Book') (02/29/2024)
+  - [Book](https://github.com/mdssjc/mds 'Book') (03/04/2024)
 - 🏠 Website: [marcelo-mds.dev](https://marcelo-mds.dev/ 'marcelo-mds.dev')
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdssjc&langs_count=10&layout=compact)

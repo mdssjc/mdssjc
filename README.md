@@ -4,9 +4,9 @@ Hi there!
 
 I'm Marcelo dos Santos.
 
-I'm applications craftsman in Java, TypeScript, Python, Lisp, Dart, and Rust, with interests in PLT (Programming Language Theory), Creative Coding, and GameDev. I'm currently working on developing web applications and microservices in Java (Spring Boot) and TypeScript (Angular); and mobile applications in Dart (Flutter) for personal projects.
+I'm applications craftsman in Java, TypeScript, Python, Lisp, Dart, and Rust, with interests in PLT (Programming Language Theory) and Creative Coding. I'm currently working on developing web applications and microservices in Java (Spring Boot) and TypeScript (Angular); and mobile applications in Dart (Flutter) for personal projects.
 
-- 📘 Studies: PLT, Creative Coding, and GameDev
+- 📘 Studies: PLT and Creative Coding
 - ☕ Mainstream:
   - Java (Spring Boot 2 and 3📚) and Kotlin
   - TypeScript (Angular/Deno) and JavaScript

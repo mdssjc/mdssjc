@@ -6,13 +6,13 @@ I'm Marcelo dos Santos.
 
 I'm applications craftsman in Java, TypeScript, Python, Lisp, Dart, and Rust, with interests in PLT (Programming Language Theory) and Creative Coding. I'm currently working on developing web applications and microservices in Java (Spring Boot) and TypeScript (Angular); and mobile applications in Dart (Flutter) for personal projects.
 
-- 📘 Studies: PLT and Creative Coding
+- 📘 Studies: PLT, Creative Coding, Computing, and Mathematics
 - ☕ Mainstream:
   - Java (Spring Boot 2 and 3📚) and Kotlin
   - TypeScript (Angular/Deno) and JavaScript
 - 🤓 Academics:
   - 🧮 mathematics: Julia, Python, and R
-  - 🖥️ computation: C, Racket, and Haskell
+  - 🖥️ computing: C, Racket, and Haskell
 - 🔥 Others: Dart and Rust
 - 🛠 Projects:
   - [Oblique Strategies](https://play.google.com/store/apps/details?id=com.github.mdssjc.oblique_strategies 'Oblique Strategies')

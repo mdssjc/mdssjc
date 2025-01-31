@@ -17,7 +17,7 @@ I'm applications craftsman in Java, TypeScript, Python, Lisp, Dart, and Rust, wi
 - 🛠 Projects:
   - [Oblique Strategies](https://play.google.com/store/apps/details?id=com.github.mdssjc.oblique_strategies 'Oblique Strategies')
   - [Notes](https://github.com/mdssjc/mds-notes 'Notes') (01/26/2025)
-  - [Book](https://github.com/mdssjc/mds 'Book') (01/10/2025)
+  - [**Book**](https://github.com/mdssjc/mds 'Book') (01/31/2025)
   - [MDS Page - Flutter Version - Under Construction](https://github.com/mdssjc/mds-page 'MDS Page') (01/24/2025)
   - **NumberChronicle**: coming soon
 - 🏠 Website: [marcelo-mds.dev](https://marcelo-mds.dev/ 'marcelo-mds.dev')

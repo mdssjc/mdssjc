@@ -12,7 +12,7 @@ I'm applications craftsman in Java, TypeScript, Python, Lisp, Dart, and Rust, wi
   - TypeScript (Angular/Deno) and JavaScript
 - 🤓 Academics:
   - 🧮 mathematics: Julia, Python, and R
-  - 🖥️ computing: C, Racket, and Haskell
+  - 🖥️ computing: C (??? OCaml ???), Racket, and Haskell
 - 🔥 Others: Dart and Rust
 - 🛠 Projects:
   - [Oblique Strategies](https://play.google.com/store/apps/details?id=com.github.mdssjc.oblique_strategies 'Oblique Strategies')

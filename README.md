@@ -4,7 +4,7 @@ Hi there!
 
 I'm Marcelo dos Santos.
 
-I'm applications craftsman in Java, TypeScript, Python, Lisp, Dart, and Rust, with interests in PLT (Programming Language Theory) and Creative Coding. I'm currently working on developing web applications and microservices in Java (Spring Boot) and TypeScript (Angular); and mobile applications in Dart (Flutter) for personal projects.
+I'm applications craftsman in Java, TypeScript, Python, Lisp, Dart, and Rust, with interests in PLT (Programming Language Theory) and Creative Coding. I'm currently working on developing web applications and microservices in Java (Spring Boot) and TypeScript (Angular); and mobile applications in Dart (Flutter) and toys applications in Rust for personal projects.
 
 - 📘 Studies: PLT, Creative Coding, Computing, and Mathematics
 - ☕ Mainstream:
@@ -12,12 +12,12 @@ I'm applications craftsman in Java, TypeScript, Python, Lisp, Dart, and Rust, wi
   - TypeScript (Angular/Deno) and JavaScript
 - 🤓 Academics:
   - 🧮 mathematics: Julia, Python, and R
-  - 🖥️ computing: C (??? OCaml ???), Racket, and Haskell
+  - 🖥️ computing: OCaml, Racket, and Haskell
 - 🔥 Others: Dart and Rust
 - 🛠 Projects:
   - [Oblique Strategies](https://play.google.com/store/apps/details?id=com.github.mdssjc.oblique_strategies 'Oblique Strategies')
   - [Notes](https://github.com/mdssjc/mds-notes 'Notes') (02/13/2025)
-  - [**Book**](https://github.com/mdssjc/mds 'Book') (01/31/2025)
+  - [**Book**](https://github.com/mdssjc/mds 'Book') (02/28/2025)
   - [MDS Page - Flutter Version - Under Construction](https://github.com/mdssjc/mds-page 'MDS Page') (02/16/2025)
   - **NumberChronicle**: coming soon
 - 🏠 Website: [marcelo-mds.dev](https://marcelo-mds.dev/ 'marcelo-mds.dev')
